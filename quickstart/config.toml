@@ -1,0 +1,5 @@
+baseURL = "https://superjcvd.github.io/blog/"
+languageCode = "en-us"
+title = "My new blog"
+theme = "ananke"
+publishDir = "docs"
